@@ -6,7 +6,7 @@ This is a YouTube Thumbnail Downloader PHP Script by Pure Coding.
 
 ## Demo
 
-Insert gif or link to demo
+https://yttldl.herokuapp.com/
 
   
 ## Authors
